@@ -12,7 +12,7 @@ public class Main {public static void main(String[] args) {
 
     System.out.println(a + "x + (" + b + ") = 0");
     if (a == 0) {
-        System.out.println("Ошибка: a = 0");
+        System.out.println("Ошибка: a = 0 корней нет");
     } else {
         double x=-b/a;
         System.out.println("x = " + x);
