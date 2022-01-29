@@ -1,5 +1,4 @@
 package ru.dvfu.mrcpk.java01.example11.easyclass;
-
 public class Point2D {
     private int x;
     private int y;
