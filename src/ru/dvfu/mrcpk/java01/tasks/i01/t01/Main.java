@@ -8,5 +8,5 @@ public class Main {
         int x = scanner.nextInt();
         int y = x % 10;
         System.out.println("Младший разряд: " + y);
-    }
+            }
 }
